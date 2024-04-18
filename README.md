@@ -17,3 +17,6 @@ In the chb01 dataset (03,04,15,16) are WITH SEIZURE
 
 So while running JeswinMain2.ipynb categorize files into folders accordingly 
 The accuracies while running on raw EEG data are comparatively low but you can increase this by adding more SEIZURE and NON SEIZURE EEG data from CHB-MIT database for the models to learn and classify accurately.
+
+# MODEL FLOW DIAGRAM
+![image](https://github.com/Rioichi03/Epileptic-Seizure-classification-using-Machine-and-Deep-Learning-/assets/144867011/f1d0df45-b728-4a54-a353-1cf9577bd5f8)
